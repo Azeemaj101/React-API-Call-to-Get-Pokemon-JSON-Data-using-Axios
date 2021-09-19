@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/css/main.18662510.chunk.css",
+    "main.js": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/main.6344412a.chunk.js",
+    "main.js.map": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/main.6344412a.chunk.js.map",
+    "runtime-main.js": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/runtime-main.a8d686df.js",
+    "runtime-main.js.map": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/runtime-main.a8d686df.js.map",
+    "static/js/2.23482117.chunk.js": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/2.23482117.chunk.js",
+    "static/js/2.23482117.chunk.js.map": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/2.23482117.chunk.js.map",
+    "index.html": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/index.html",
+    "static/css/main.18662510.chunk.css.map": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/css/main.18662510.chunk.css.map",
+    "static/js/2.23482117.chunk.js.LICENSE.txt": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/js/2.23482117.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-API-Call-to-Get-Pokemon-JSON-Data-using-Axios/static/media/1.dcad826a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d686df.js",
+    "static/js/2.23482117.chunk.js",
+    "static/css/main.18662510.chunk.css",
+    "static/js/main.6344412a.chunk.js"
+  ]
+}
