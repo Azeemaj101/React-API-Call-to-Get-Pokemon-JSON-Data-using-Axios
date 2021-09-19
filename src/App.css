@@ -1,0 +1,91 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+main{
+  background-image: url("./1.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#demo-simple-select-label
+{
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 15px rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+#demo-simple-select
+{
+  color: white;
+}
+
+.name, .move{
+  font-weight: bold;
+}
+
+#table
+{
+  margin-top: 10px;
+  display: none;
+  background-color: black;
+  color: white;
+}
+.name1
+{
+  color: white;
+}
+.media{
+  min-width: 650px;
+}
+
+@media screen and (max-width: 674px) {
+  .media{
+    min-width: 450px;
+  }
+}
+@media screen and (max-width: 474px) {
+  .media{
+    min-width: 350px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .media{
+    min-width: 250px;
+  }
+}
+@media screen and (max-width: 306px) {
+  .media{
+    min-width: 110px;
+  }
+}
